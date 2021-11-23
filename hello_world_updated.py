@@ -1,0 +1,5 @@
+print("Hello, World!")
+print("By: Melody Berhane")
+print("I am very excited to be in the ICS3U class!!")
+print("Hello Mom, I miss you so much!! See you when i get home.")
+print("I can't wait till december 17th, i am so excited to go back home to Cameroon!")
